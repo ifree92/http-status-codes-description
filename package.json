@@ -1,0 +1,19 @@
+{
+  "name": "http-status-codes-description",
+  "version": "1.0.1",
+  "description": "Small data base with information about all http status codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifree92/http-status-codes-description.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifree92/http-status-codes-description/issues"
+  },
+  "homepage": "https://github.com/ifree92/http-status-codes-description#readme"
+}
